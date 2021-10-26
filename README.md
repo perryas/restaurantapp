@@ -1,11 +1,11 @@
-#Next-React Frontend for Restaurants
-Exercise03 is full rendering
+#Next-React Frontend for Restaurants App
+
 <img src = 'restaurants.png'>
 
 ## use yarn and then yarn dev to run the code
 
 Do NOT do a yarn build since we are not going to deploy it anywhere
-Exercise03 is full rendering
+
 index3.js (Data is hardcoded)
 index.js (Get data from Strapi using Apollo and GraphQL)
 restaurantList.js is Web Component to render restaurants
