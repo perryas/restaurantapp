@@ -2,11 +2,10 @@
 
 <img src = 'restaurants1.png'>
 
-## use yarn and then yarn dev to run the code
+## Use yarn and then yarn dev to run the code or npm 
 
 Do NOT do a yarn build since we are not going to deploy it anywhere
 
-index3.js (Data is hardcoded)
 index.js (Get data from Strapi using Apollo and GraphQL)
 restaurantList.js is Web Component to render restaurants
 
