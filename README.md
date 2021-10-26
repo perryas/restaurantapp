@@ -1,6 +1,6 @@
 #Next-React Frontend for Restaurants App
 
-<img src = 'restaurants.png'>
+<img src = 'restaurants1.png'>
 
 ## use yarn and then yarn dev to run the code
 
